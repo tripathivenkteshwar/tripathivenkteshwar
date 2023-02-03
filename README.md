@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Venkteshwar Tripathi, I am from India, living in Prayagraj and working at Paysafe Group as a Platform Engineer.
+My name is Venkteshwar Tripathi, I am from India, living in Prayagraj and had worked with Paysafe Group as a Platform Engineer.
 
 - 📫 How to reach me: tripathivenkteshwar@gmail.com OR You can check the out on LinkedIn
 
