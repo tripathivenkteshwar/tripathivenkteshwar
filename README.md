@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-I'm Venkteshwar Tripathi, residing in Prayagraj, India. Presently employed as a software engineer at Traveloka, I previously served as a Platform Engineer at Paysafe Group.
+I'm Venkteshwar Tripathi, residing in Prayagraj, India. Presently employed as a software engineer at DAZN
 
 - 📫 How to reach me: tripathivenkteshwar@gmail.com OR You can check the out on LinkedIn
 
