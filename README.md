@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-I'm Venkteshwar Tripathi, residing in Prayagraj, India. Presently employed as a software engineer at DAZN
+I'm Venkteshwar Tripathi, residing in India. Presently employed as a software engineer at DAZN
 
 - 📫 How to reach me: You can check the out on LinkedIn
 
